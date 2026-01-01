@@ -1,5 +1,5 @@
 # Recon Docker Framework
-![Recon Output](assets/screenshot1.png)
+![Recon Output](assets/Screenshot1.png)
 
 A **Dockerized automated reconnaissance framework** for web security testing.  
 This project consolidates industry‑standard recon tools into a single, repeatable workflow driven by `recon.sh`.
@@ -94,6 +94,7 @@ docker run -it --rm recon-docker ./recon.sh example.com
     ├── redirect.txt
     └── idor.txt
 ```
+![Recon Output](assets/Screenshot4.png)
 **Script Logic (recon.sh)**
 ```bash
 1. Validate input
