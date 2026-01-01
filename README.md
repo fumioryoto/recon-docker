@@ -141,4 +141,4 @@ GitHub: https://github.com/fumioryoto
 
 **License**
 
-MIT License
+![License](https://img.shields.io/badge/License-MIT-green.svg)
