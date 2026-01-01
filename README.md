@@ -49,7 +49,7 @@ All results are stored in a structured output directory per target.
 
 ### Clone Repository
 ```bash
-git clone https://github.com/<your-username>/recon-docker.git
+git clone https://github.com/fumioryoto/recon-docker.git
 cd recon-docker
 ```
 
