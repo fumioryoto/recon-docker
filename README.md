@@ -136,3 +136,7 @@ Author
 Nahid
 Security Researcher | Recon | Pentester
 GitHub: https://github.com/fumioryoto
+
+**License**
+
+MIT License
