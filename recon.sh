@@ -132,7 +132,7 @@ fi
 
 
 # =============================
-# DONE
+# Total Output and finished jobs
 # =============================
 echo
 echo "[✔] Recon completed!"
